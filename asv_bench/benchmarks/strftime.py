@@ -62,3 +62,5 @@ class BusinessHourStrftime:
 
     def time_frame_offset_repr(self, obs):
         self.data["off"].apply(repr)
+
+

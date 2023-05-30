@@ -90,3 +90,5 @@ class Render:
         self.st = self.df.style.set_tooltips(ttips)
         self.st.hide(self.st.index[12:], axis=0)
         self.st.hide(self.st.columns[12:], axis=1)
+
+

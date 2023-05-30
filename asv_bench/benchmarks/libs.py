@@ -104,3 +104,5 @@ class CacheReadonly:
 
     def time_cache_readonly(self):
         self.obj.prop
+
+

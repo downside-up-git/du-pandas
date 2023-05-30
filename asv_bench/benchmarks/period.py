@@ -104,3 +104,5 @@ class Indexing:
 
     def time_unique(self):
         self.index.unique()
+
+

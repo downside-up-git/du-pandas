@@ -287,3 +287,5 @@ class StringArrayConstruction:
 
     def peakmem_stringarray_construction(self):
         StringArray(self.series_arr)
+
+

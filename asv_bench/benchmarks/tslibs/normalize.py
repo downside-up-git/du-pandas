@@ -43,3 +43,5 @@ class Normalize:
         # TODO: cases with different levels of short-circuiting
         # 10 i.e. NPY_FR_ns
         is_date_array_normalized(self.i8data, tz, 10)
+
+

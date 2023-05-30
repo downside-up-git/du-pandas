@@ -78,3 +78,5 @@ class BaseIO:
 
     def teardown(self, *args, **kwargs):
         self.remove(self.fname)
+
+

@@ -14,3 +14,5 @@ class Finalize:
 
     def time_finalize_micro(self, param):
         self.obj.__finalize__(self.obj, method="__finalize__")
+
+

@@ -87,3 +87,5 @@ class NumericSeriesIndexingShuffled:
     def time_loc_slice(self, index, N):
         # trigger building of mapping
         self.data.loc[:800]
+
+

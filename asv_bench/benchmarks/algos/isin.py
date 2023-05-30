@@ -338,3 +338,5 @@ class IsInIndexes:
 
     def time_isin_index(self):
         self.series.isin(self.index)
+
+

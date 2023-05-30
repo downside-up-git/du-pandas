@@ -140,3 +140,5 @@ class ArrowExtensionArray:
 
     def time_to_numpy(self, dtype, hasna):
         self.arr.to_numpy()
+
+

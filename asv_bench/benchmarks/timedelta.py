@@ -59,3 +59,5 @@ class TimedeltaIndexing:
 
     def time_unique(self):
         self.index.unique()
+
+

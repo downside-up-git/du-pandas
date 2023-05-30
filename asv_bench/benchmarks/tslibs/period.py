@@ -137,3 +137,5 @@ class TimeDT64ArrToPeriodArr:
 
     def time_dt64arr_to_periodarr(self, size, freq, tz):
         dt64arr_to_periodarr(self.i8values, freq, tz)
+
+

@@ -150,3 +150,5 @@ class TimestampAcrossDst:
 
     def time_replace_across_dst(self):
         self.ts2.replace(tzinfo=self.tzinfo)
+
+

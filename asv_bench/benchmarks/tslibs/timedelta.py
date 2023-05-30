@@ -67,3 +67,5 @@ class TimedeltaProperties:
 
     def time_timedelta_nanoseconds(self, td):
         td.nanoseconds
+
+

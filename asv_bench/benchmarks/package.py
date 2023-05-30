@@ -17,3 +17,5 @@ class TimeImport:
         field = line.split(b"|")[-2].strip()
         total = int(field)  # microseconds
         return total
+
+

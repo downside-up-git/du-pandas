@@ -98,3 +98,5 @@ RUN mamba env create -f /tmp/environment.yml && \
 # -----------------------------------------------------------------------------
 # Always make sure we are not root
 USER gitpod
+
+

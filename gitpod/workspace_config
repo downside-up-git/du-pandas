@@ -52,3 +52,5 @@ echo "export CC=\"ccache \$CC\"" >>~/.startuprc
 echo "export CXX=\"ccache \$CXX\"" >>~/.startuprc
 echo "source ~/.startuprc" >>~/.profile
 echo "source ~/.startuprc" >>~/.bashrc
+
+

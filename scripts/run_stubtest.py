@@ -96,3 +96,5 @@ if __name__ == "__main__":
             allow.name,
         ]
         sys.exit(stubtest.test_stubs(stubtest.parse_options(args)))
+
+
